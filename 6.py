@@ -1,3 +1,4 @@
+# Вариант 33. F(n<3)=2;F(n)= (-1)n*(F(n-1)-(n-2)!+F(n-1)/(2n)!)(при n >12), F(n)=F(n-2)-F(n-1) (при 5<n<=12)
 import math
 import timeit
 import matplotlib.pyplot as plt
